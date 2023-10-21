@@ -1,0 +1,26 @@
+@import "index.css";
+.text{
+    color: var(--color);
+    font-size: var(--fontSize);
+    font-weight: var(--fontWeight);
+}
+.container{
+    max-width: 226px ;
+    display: flex;
+}
+.buttonHeart{
+    align-self: flex-end;
+    width: 20px;
+    height: 20px;
+}
+.image{
+    background-image:  ;
+}
+.delivery p{
+    color: grey;
+    margin-bottom: 0;
+}
+.button21{
+    background-color: hotpink;
+    display: flex;
+}
